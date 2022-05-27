@@ -1,5 +1,5 @@
 # React calculator 
-View project : 
+View project : https://kaends.github.io/React-calculator/
 
 # Getting Started with Create React App
 
